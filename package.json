@@ -1,0 +1,22 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "Tutorial MongoDb",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexsLima17/mongodb.git"
+  },
+  "author": "Alex Lima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexsLima17/mongodb/issues"
+  },
+  "homepage": "https://github.com/AlexsLima17/mongodb#readme",
+  "dependencies": {
+    "mongoose": "^8.10.1"
+  }
+}
