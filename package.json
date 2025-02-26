@@ -1,0 +1,23 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "Tutorial mongodb",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/professorjosedeassis/mongodb.git"
+  },
+  "author": "Professor José de Assis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/professorjosedeassis/mongodb/issues"
+  },
+  "homepage": "https://github.com/professorjosedeassis/mongodb#readme",
+  "dependencies": {
+    "mongoose": "^8.10.2",
+    "string-similarity": "^4.0.4"
+  }
+}
